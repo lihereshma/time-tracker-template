@@ -384,7 +384,7 @@ h4 {
 
   .banner-image { display: none; }
 
-  .tab-content { min-height: 200px; }
+  .tab-content { min-height: 300px; }
 
   .tab-list li a { font-size: 18px; }
 }  
